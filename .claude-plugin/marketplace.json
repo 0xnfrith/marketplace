@@ -19,6 +19,19 @@
       },
       "license": "Apache-2.0",
       "keywords": ["canvas", "visualization", "react-flow", "channel", "mcp"]
+    },
+    {
+      "name": "statusline",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nfrith/statusline.git"
+      },
+      "description": "Minimal themed Claude Code statusline — identity, branch, cwd, model, context bar, world clocks, rotating quote. Pure inline; no MCP server.",
+      "author": {
+        "name": "Nicholas Frith"
+      },
+      "license": "Apache-2.0",
+      "keywords": ["statusline", "claude-code", "ghost", "sec9"]
     }
   ]
 }
