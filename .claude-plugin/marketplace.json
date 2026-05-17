@@ -1,0 +1,24 @@
+{
+  "name": "nfrith-plugins",
+  "owner": {
+    "name": "Nicholas Frith"
+  },
+  "metadata": {
+    "description": "Plugins by nfrith"
+  },
+  "plugins": [
+    {
+      "name": "claude-canvas",
+      "source": {
+        "source": "github",
+        "repo": "nfrith/claude-canvas"
+      },
+      "description": "Visual brainstorming surface — Claude paints a system diagram, you riff on it, both see the same canvas.",
+      "author": {
+        "name": "Nicholas Frith"
+      },
+      "license": "Apache-2.0",
+      "keywords": ["canvas", "visualization", "react-flow", "channel", "mcp"]
+    }
+  ]
+}
