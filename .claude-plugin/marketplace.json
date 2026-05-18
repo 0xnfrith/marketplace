@@ -32,6 +32,19 @@
       },
       "license": "Apache-2.0",
       "keywords": ["statusline", "claude-code", "ghost", "sec9"]
+    },
+    {
+      "name": "visualize",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nfrith/visualize.git"
+      },
+      "description": "Diagram-rendering canvas — Claude draws via D2 / raw SVG / image URLs; operator riffs on a tldraw surface.",
+      "author": {
+        "name": "Nicholas Frith"
+      },
+      "license": "Apache-2.0",
+      "keywords": ["canvas", "d2", "tldraw", "mcp", "diagrams"]
     }
   ]
 }
