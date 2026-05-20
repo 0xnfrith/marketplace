@@ -1,10 +1,10 @@
 {
-  "name": "nfrith-plugins",
+  "name": "nfrith-marketplace",
   "owner": {
     "name": "Nicholas Frith"
   },
   "metadata": {
-    "description": "Plugins by nfrith"
+    "description": "Plugin marketplace by nfrith"
   },
   "plugins": [
     {

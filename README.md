@@ -1,14 +1,14 @@
-# nfrith-plugins
+# nfrith-marketplace
 
 Plugin marketplace by nfrith for Claude Code.
 
 ## Install
 
 ```
-/plugin marketplace add nfrith/plugins
-/plugin install claude-canvas@nfrith-plugins
-/plugin install statusline@nfrith-plugins
-/plugin install visualize@nfrith-plugins
+/plugin marketplace add nfrith/marketplace
+/plugin install claude-canvas@nfrith-marketplace
+/plugin install statusline@nfrith-marketplace
+/plugin install visualize@nfrith-marketplace
 ```
 
 ## Plugins
