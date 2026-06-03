@@ -1,17 +1,17 @@
 {
-  "name": "nfrith-marketplace",
+  "name": "0xnfrith-plugins",
   "owner": {
     "name": "Nicholas Frith"
   },
   "metadata": {
-    "description": "Plugin marketplace by nfrith"
+    "description": "Plugin marketplace by 0xnfrith"
   },
   "plugins": [
     {
       "name": "claude-canvas",
       "source": {
         "source": "url",
-        "url": "https://github.com/nfrith/claude-canvas.git"
+        "url": "https://github.com/0xnfrith/claude-canvas.git"
       },
       "description": "Visual brainstorming surface — Claude paints a system diagram, you riff on it, both see the same canvas.",
       "author": {
@@ -24,7 +24,7 @@
       "name": "statusline",
       "source": {
         "source": "url",
-        "url": "https://github.com/nfrith/statusline.git"
+        "url": "https://github.com/0xnfrith/statusline.git"
       },
       "description": "Minimal themed Claude Code statusline — identity, branch, cwd, model, context bar, world clocks, rotating quote. Pure inline; no MCP server.",
       "author": {
@@ -37,7 +37,7 @@
       "name": "visualize",
       "source": {
         "source": "url",
-        "url": "https://github.com/nfrith/visualize.git"
+        "url": "https://github.com/0xnfrith/visualize.git"
       },
       "description": "Diagram-rendering canvas — Claude draws via D2 / raw SVG / image URLs; operator riffs on a tldraw surface.",
       "author": {
