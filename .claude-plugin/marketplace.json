@@ -45,6 +45,19 @@
       },
       "license": "Apache-2.0",
       "keywords": ["canvas", "d2", "tldraw", "mcp", "diagrams"]
+    },
+    {
+      "name": "nf-backlog-system",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/0xnfrith/nf-backlog-system.git"
+      },
+      "description": "A markdown-native backlog for the solo operator — typed items, arcs, and initiatives in plain files you own. Skills to inspect, manage, and update a consumer-owned schema enforced by a validation hook.",
+      "author": {
+        "name": "Nicholas Frith"
+      },
+      "license": "Apache-2.0",
+      "keywords": ["backlog", "solo-operator", "founder", "fde", "markdown", "items", "arcs", "initiatives"]
     }
   ]
 }
