@@ -8,19 +8,6 @@
   },
   "plugins": [
     {
-      "name": "claude-canvas",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/0xnfrith/claude-canvas.git"
-      },
-      "description": "Visual brainstorming surface — Claude paints a system diagram, you riff on it, both see the same canvas.",
-      "author": {
-        "name": "Nicholas Frith"
-      },
-      "license": "Apache-2.0",
-      "keywords": ["canvas", "visualization", "react-flow", "channel", "mcp"]
-    },
-    {
       "name": "statusline",
       "source": {
         "source": "url",
