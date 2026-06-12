@@ -9,6 +9,7 @@ Plugin marketplace by 0xnfrith for Claude Code.
 /plugin install statusline@0xnfrith-plugins
 /plugin install visualize@0xnfrith-plugins
 /plugin install nf-backlog-system@0xnfrith-plugins
+/plugin install nf-workstation-notification-system@0xnfrith-plugins
 ```
 
 ## Plugins
@@ -16,3 +17,4 @@ Plugin marketplace by 0xnfrith for Claude Code.
 - **statusline** — minimal themed Claude Code statusline. Identity prefix, branch, cwd, model, context bar, world clocks, rotating quote. Pure inline; no MCP server, no cache, no external producers.
 - **visualize** — diagram-rendering canvas. Claude draws via D2 / raw SVG / image URLs; operator riffs on a tldraw surface.
 - **nf-backlog-system** — markdown-native backlog for the solo operator. Typed items, arcs, and initiatives in plain files you own; skills to inspect, manage, and update a consumer-owned schema enforced by a validation hook.
+- **nf-workstation-notification-system** — character-voice sound notifications for Claude Code sessions. Voice packs are CDN-hosted and cached locally; swap the whole voice or assign a different voice per notification category. No audio in the plugin. macOS only.
