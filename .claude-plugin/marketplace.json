@@ -36,8 +36,8 @@
     {
       "name": "nf-backlog-system",
       "source": {
-        "source": "url",
-        "url": "https://github.com/0xnfrith/nf-backlog-system.git"
+        "source": "github",
+        "repo": "0xnfrith/nf-backlog-system"
       },
       "description": "A markdown-native backlog for the solo operator — typed items, arcs, and initiatives in plain files you own. Skills to inspect, manage, and update a consumer-owned schema enforced by a validation hook.",
       "author": {
