@@ -45,19 +45,6 @@
       },
       "license": "Apache-2.0",
       "keywords": ["backlog", "solo-operator", "founder", "fde", "markdown", "items", "arcs", "initiatives"]
-    },
-    {
-      "name": "nf-workstation-notification-system",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/0xnfrith/nf-workstation-notification-system.git"
-      },
-      "description": "Character-voice sound notifications for Claude Code sessions. Voice packs are CDN-hosted and cached locally — swap the whole voice or assign a different voice per notification category. No audio ships in the plugin. macOS only.",
-      "author": {
-        "name": "Nicholas Frith"
-      },
-      "license": "Apache-2.0",
-      "keywords": ["notifications", "sounds", "voice-packs", "hooks", "macos"]
     }
   ]
 }
