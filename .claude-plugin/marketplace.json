@@ -39,7 +39,7 @@
         "source": "url",
         "url": "https://github.com/0xnfrith/nf-backlog-system.git"
       },
-      "description": "A markdown-native backlog for the solo operator — typed items, arcs, and initiatives in plain files you own. Skills to inspect, manage, and update a consumer-owned schema enforced by a validation hook.",
+      "description": "The opinionated markdown-native backlog that runs Ghost (Section 9) — GTD capture/clarify/review rituals and a Kaizen improvement loop over items, arcs, and initiatives, with dispatch into background Claude sessions. Built for one solo operator; shared so you can see how it works.",
       "author": {
         "name": "Nicholas Frith"
       },
