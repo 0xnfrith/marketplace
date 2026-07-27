@@ -32,19 +32,6 @@
       },
       "license": "Apache-2.0",
       "keywords": ["canvas", "d2", "tldraw", "mcp", "diagrams"]
-    },
-    {
-      "name": "nf-backlog-system",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/0xnfrith/nf-backlog-system.git"
-      },
-      "description": "The opinionated markdown-native backlog that runs Ghost (Section 9) — GTD capture/clarify/review rituals and a Kaizen improvement loop over items, arcs, and initiatives, with dispatch into background Claude sessions. Built for one solo operator; shared so you can see how it works.",
-      "author": {
-        "name": "Nicholas Frith"
-      },
-      "license": "Apache-2.0",
-      "keywords": ["backlog", "solo-operator", "founder", "fde", "markdown", "items", "arcs", "initiatives"]
     }
   ]
 }
